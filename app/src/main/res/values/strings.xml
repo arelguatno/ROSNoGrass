@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ROS On/Off Grass</string>
+    <string name="notRootedMessage">Sorry! Root access is not proprely installed on this device.\n\nDevice Name : %1$s \nAndroid Version: %2$s</string>
+</resources>
